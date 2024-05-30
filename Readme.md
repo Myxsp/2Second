@@ -1,7 +1,7 @@
 markdown
 task 24
 
-# _Pizza_
+#### Pizza
 **id: 1**
 ### _name: пеперони_
 #### size: 30см
